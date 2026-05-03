@@ -463,6 +463,7 @@ The ZED Python API is usually installed through the ZED SDK tools rather than pi
 ## Usage
 
 ### Run With Local ZED Camera
+Run the sender script first either on laptop on jetson 
 
 ```bash
 python zed_distance_tool.py
