@@ -13,23 +13,38 @@ True measurements:
 - Small pipe: `15 cm`
 - Long pipe: `40 cm`
 
-<video src="underwater_footage/iceberg_footage.mp4" controls width="800"></video>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=FpWF3fpKW68">
+      <img src="https://github.com/user-attachments/assets/eb4f9c3a-f506-442e-ac75-42766106cefc" alt="Target Measurement Demo" width="800">
 
-If the video does not render on your platform, open it directly:
+  </a>
+</p>
 
-[Watch small pipes measurement](underwater_footage/iceberg_footage.mp4)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=FpWF3fpKW68">
+    <strong>Watch Small Pipes Measurement Demo</strong>
+  </a>
+</p>
+
+---
 
 ### Target Measurement
 
-True target measurement:
+True measurement:
 
 - Target length: `10 cm`
 
-<video src="underwater_footage/coral_garden_footage.mp4" controls width="800"></video>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=FpWF3fpKW68">
+    <img src="https://github.com/user-attachments/assets/01c80a62-1eb6-4551-967f-f97a8515270e" alt="Small Pipes Measurement Demo" width="800">
+  </a>
+</p>
 
-If the video does not render on your platform, open it directly:
-
-[Watch target measurement](underwater_footage/coral_garden_footage.mp4)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=0gPI-CR7d_U">
+    <strong>Watch Target Measurement Demo</strong>
+  </a>
+</p>
 
 ## Overview
 
