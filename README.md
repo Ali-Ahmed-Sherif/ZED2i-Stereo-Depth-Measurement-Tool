@@ -21,7 +21,7 @@ True measurements:
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=0gPI-CR7d_U">
+  <a href="https://www.youtube.com/watch?v=FpWF3fpKW68">
     <strong>Watch Small Pipes Measurement Demo</strong>
   </a>
 </p>
@@ -35,7 +35,7 @@ True measurement:
 - Target length: `10 cm`
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=FpWF3fpKW68">
+  <a href="https://www.youtube.com/watch?v=0gPI-CR7d_U">
     <img src="https://github.com/user-attachments/assets/01c80a62-1eb6-4551-967f-f97a8515270e" alt="Small Pipes Measurement Demo" width="800">
   </a>
 </p>
