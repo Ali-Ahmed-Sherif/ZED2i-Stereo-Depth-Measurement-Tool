@@ -1,4 +1,4 @@
-# ZED Stereo Depth Measurement Tool
+# ZED2i Stereo Depth Measurement Tool
 
 ## Short Description
 
